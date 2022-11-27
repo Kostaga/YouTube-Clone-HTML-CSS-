@@ -4,5 +4,9 @@ A youtube clone I made using HTML and CSS. Everything you see is just visual, cl
 
 Here are some screenshots: 
 
-![y1](https://user-images.githubusercontent.com/59094550/204139586-18d5c7a6-d82b-4930-8507-6e88b043036a.png)
 
+
+![y1](https://user-images.githubusercontent.com/59094550/204139701-5a0c1dac-284f-45b0-91c1-b46bfd998d5d.png)
+![y2](https://user-images.githubusercontent.com/59094550/204139704-ddd34207-92ba-4e37-98fa-0a5d99f13ed3.png)
+![y3](https://user-images.githubusercontent.com/59094550/204139705-d8cc5fda-4e5b-460f-8f88-66da999bf79a.png)
+![y4](https://user-images.githubusercontent.com/59094550/204139710-0fdc47e2-bea5-488c-af60-7575e3ad430c.png)
